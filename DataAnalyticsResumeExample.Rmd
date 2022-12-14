@@ -1,0 +1,146 @@
+---
+title: "Mohamed Gedi Ibrahim"
+author: Mohamed Gedi Ibrahim
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>mohamed_gedi.ibrahim@tufts.edu
+- <i class="fa fa-github"></i> [github.com/mo-gedi//](https://github.com/mo-gedi/)
+- <i class="fa fa-phone"></i> +1 000-00-0000
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on Business models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/Stata/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Mohamed Gedi Ibrahim {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 20222 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2022--Current
+
+
+### Undergraduate University
+
+B.A. in Economics
+
+Istanbul, Turkey 
+
+2018--2022
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+Tufts University
+
+Medford, MA
+
+2022--current
+
+- Developed research questions 
+- Provided additional guidance for undergraduate mentors
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2016--2018
+
+<!--::: concise-->
+- Deployed a project which predicted Airbnb price listing.
+- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
+<!--:::-->
+
+
+
+
+### Other project
+
+Tufts University
+
+Medford, MA
+
+2022 -- 2022
+
+- Evaluated 
+- Deployed
+- Managed 
+-  Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-200 Final Project
+Presented a model for Airbnb price listing, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+December 2022
+
+
